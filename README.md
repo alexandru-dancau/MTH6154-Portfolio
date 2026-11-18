@@ -9,10 +9,10 @@ module MTH6154 Financial Mathematics I.
 |---|---|---|---|
 | 1 | Interest rates | [notes](lessons/01-InterestRates.md) | [xlsx](spreadsheets/01-InterestRates.xlsx) |
 | 2 | Present value | [notes](lessons/02-PresentValue.md) | [xlsx](spreadsheets/02-PresentValue.xlsx) |
-| 3 | Immunisation | | |
-| 4 | Bonds | | |
-| 5 | Stochastic interest rates | | |
-| 6 | Equities and derivatives | | |
+| 3 | Immunisation | [notes](lessons/03-Immunisation.md) | [xlsx](spreadsheets/03-Immunisation.xlsx) |
+| 4 | Bonds | [notes](lessons/04-Bonds.md) | [xlsx](spreadsheets/04-Bonds.xlsx) |
+| 5 | Stochastic interest rates | [notes](lessons/05-StochasticInterestRates.md) | [xlsx](spreadsheets/05-StochasticInterestRates.xlsx) |
+| 6 | Equities and derivatives | [notes](lessons/06-EquitiesAndDerivatives.md) | [xlsx](spreadsheets/06-EquitiesAndDerivatives.xlsx) |
 
 ## AI use
-Claude: help setting up the GitHub repository and uploading the template.
+- Claude: help setting up the GitHub repository and uploading the template.
