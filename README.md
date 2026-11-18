@@ -19,6 +19,4 @@ module MTH6154 Financial Mathematics I.
 | 11 | Black–Scholes | | |
 
 ## AI use
-
-Write here what, if anything, you used AI tools for (e.g. "asked Copilot why
-my `NORM.S.DIST` formula gave an error"). Write "None" otherwise.
+Claude: help setting up the GitHub repository and uploading the template.
